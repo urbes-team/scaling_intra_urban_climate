@@ -1,6 +1,6 @@
 # intra_urban_climate_scaling
 
-Repository for the results of the paper **“Scaling of intra-urban climate fluctuations”** (arXiv: https://arxiv.org/abs/2505.19998).
+Repository for the results of the paper **“Scaling intra-urban climate fluctuations”** (arXiv: https://arxiv.org/abs/2505.19998).
 
 ## Structure
 
